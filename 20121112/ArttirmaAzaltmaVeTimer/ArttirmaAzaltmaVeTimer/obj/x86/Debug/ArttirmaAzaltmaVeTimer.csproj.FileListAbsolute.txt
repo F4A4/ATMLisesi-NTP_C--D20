@@ -1,0 +1,18 @@
+C:\Users\ogr\Desktop\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\bin\Debug\ArttirmaAzaltmaVeTimer.exe
+C:\Users\ogr\Desktop\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\bin\Debug\ArttirmaAzaltmaVeTimer.pdb
+C:\Users\ogr\Desktop\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.Form1.resources
+C:\Users\ogr\Desktop\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.Properties.Resources.resources
+C:\Users\ogr\Desktop\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.exe
+C:\Users\ogr\Desktop\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\bin\Debug\ArttirmaAzaltmaVeTimer.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\bin\Debug\ArttirmaAzaltmaVeTimer.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\ArttirmaAzaltmaVeTimer\ArttirmaAzaltmaVeTimer\obj\x86\Debug\ArttirmaAzaltmaVeTimer.pdb

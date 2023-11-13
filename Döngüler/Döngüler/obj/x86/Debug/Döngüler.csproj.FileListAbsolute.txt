@@ -1,0 +1,11 @@
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\bin\Debug\Döngüler.exe
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\bin\Debug\Döngüler.pdb
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\obj\x86\Debug\Döngüler.Form1.resources
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\obj\x86\Debug\Döngüler.Properties.Resources.resources
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\obj\x86\Debug\Döngüler.exe
+C:\Users\MO-04\Desktop\Döngüler\Döngüler\obj\x86\Debug\Döngüler.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\Döngüler\Döngüler\obj\x86\Debug\Döngüler.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\Döngüler\Döngüler\obj\x86\Debug\Döngüler.pdb

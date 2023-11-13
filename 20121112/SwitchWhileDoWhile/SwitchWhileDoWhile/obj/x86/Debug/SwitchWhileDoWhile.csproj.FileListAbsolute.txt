@@ -1,0 +1,9 @@
+C:\Users\ogr\Desktop\SwitchWhileDoWhile\SwitchWhileDoWhile\bin\Debug\SwitchWhileDoWhile.exe
+C:\Users\ogr\Desktop\SwitchWhileDoWhile\SwitchWhileDoWhile\bin\Debug\SwitchWhileDoWhile.pdb
+C:\Users\ogr\Desktop\SwitchWhileDoWhile\SwitchWhileDoWhile\obj\x86\Debug\SwitchWhileDoWhile.Form1.resources
+C:\Users\ogr\Desktop\SwitchWhileDoWhile\SwitchWhileDoWhile\obj\x86\Debug\SwitchWhileDoWhile.Properties.Resources.resources
+C:\Users\ogr\Desktop\SwitchWhileDoWhile\SwitchWhileDoWhile\obj\x86\Debug\SwitchWhileDoWhile.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\SwitchWhileDoWhile\SwitchWhileDoWhile\obj\x86\Debug\SwitchWhileDoWhile.exe
+C:\Users\ogr\Desktop\SwitchWhileDoWhile\SwitchWhileDoWhile\obj\x86\Debug\SwitchWhileDoWhile.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\SwitchWhileDoWhile\SwitchWhileDoWhile\obj\x86\Debug\SwitchWhileDoWhile.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\20.GÜN\20121112\SwitchWhileDoWhile\SwitchWhileDoWhile\obj\x86\Debug\SwitchWhileDoWhile.pdb
